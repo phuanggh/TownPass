@@ -21,7 +21,7 @@ abstract final class TrendingServiceModel {
       ),
       TrendingService(
         icon: Assets.svg.iconBloodDonation.svg(),
-        title: '捐血服務',
+        title: '捐血福報',
         url:
             'https://bed2-2401-e180-8891-e41b-59d0-2e04-f04b-a81d.ngrok-free.app',
       ),

@@ -158,7 +158,7 @@ extension MyServiceIdExt on MyServiceItemId {
           destinationUrl: '',
         ),
       MyServiceItemId.bloodDonation => MyServiceItem(
-          title: '捐血服務',
+          title: '捐血福報',
           description: '提供捐血地點查詢、預約',
           icon: Assets.svg.iconBloodDonation.svg(),
           destinationUrl:
