@@ -19,6 +19,12 @@ abstract final class TrendingServiceModel {
         title: '施工資訊',
         url: '',
       ),
+      TrendingService(
+        icon: Assets.svg.iconBloodDonation.svg(),
+        title: '捐血服務',
+        url:
+            'https://bed2-2401-e180-8891-e41b-59d0-2e04-f04b-a81d.ngrok-free.app',
+      ),
       // 在此列表後加入新熱門按鈕
       // add new trending service button here
     ];
